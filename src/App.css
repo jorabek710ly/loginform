@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+  text-align: center;
+  min-height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(to bottom right, #0f2027 0%, #2c5364 50%, #232526 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+
+
