@@ -44,7 +44,7 @@ const Header = () => {
 
   return (
     <>
-    <div className="backraund">
+    <div className="backraund  from-cyan-500/30">
 
     
       <form
